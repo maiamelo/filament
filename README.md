@@ -1,4 +1,4 @@
-# Curso GRATUITO de Laravel 11.x
+# Curso de Laravel 11.x
 
 - :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-11-completo-e-gratuito).
 
@@ -29,11 +29,11 @@ APP_NAME="Especializa Ti"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
-DB_HOST=mysql
+DB_HOST=db
 DB_PORT=3306
 DB_DATABASE=nome_que_desejar_db
-DB_USERNAME=nome_usuario
-DB_PASSWORD=senha_aqui
+DB_USERNAME=root
+DB_PASSWORD=root
 
 CACHE_DRIVER=redis
 QUEUE_CONNECTION=redis
